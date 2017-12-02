@@ -4,8 +4,6 @@ import { NavLink } from 'react-router-dom';
 
 class Repos extends Component {
   render() {
-    console.log('Repos');
-    console.log(this.props);
     return(
       <div>
         <p>Repos</p>
