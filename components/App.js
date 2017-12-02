@@ -4,8 +4,6 @@ import { NavLink } from 'react-router-dom';
 
 class App extends Component{
   render() {
-    console.log('app');
-    console.log(this.props);
     return (
       <div>
         <h1>React Router Tutorial</h1>
